@@ -1,6 +1,6 @@
 # Music-bot
 
-**A complete music bot made with discordJS and nodeJS🎧**
+**A complete music bot made with Javascript using discordJS🎧**
 
 If you need help with this project, to get support faster you can join our [Discord Server](https://discord.gg/vWuSbMkR).
 
