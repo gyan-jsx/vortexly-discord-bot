@@ -1,12 +1,10 @@
 # Music-bot
 
-A complete code to download for a music bot 🎧
-
-Looking for a code for a music bot ? This fully open source code is made for your project !
+**A complete music bot made with discordJS and nodeJS🎧**
 
 If you need help with this project, to get support faster you can join our [Discord Server](https://discord.gg/vWuSbMkR).
 
-*If you don't have any development knowledge, it is recommended to join the Discord support server to get help.*
+
 
 ### ⚡ Configuration
 
