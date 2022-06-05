@@ -17,7 +17,7 @@ module.exports = {
     app: {
         px: 'XXX',
         token: 'XXX',
-        playing: 'by Zerio ❤️'
+        playing: 'by Gyan ❤️'
     },
 
     opt: {
@@ -35,14 +35,12 @@ module.exports = {
 
 Basic configuration
 
-- `app/px`, the prefix that will be set to use the bot
+- `app/px`, the command prefix which will be set to use the bot.
 - `app/token`, the token of the bot available on the [Discord Developers](https://discordapp.com/developers/applications) section
 - `app/playing`, the activity of the bot
 
 DJ mode configuration
 
-- `opt/DJ/enabled`, whether the DJ mode should be activated or not 
-- `opt/DJ/roleName`, the name of the DJ role to be used
 - `opt/DJ/commands`, the list of commands limited to members with the DJ role
 
 Advanced configuration
